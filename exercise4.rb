@@ -1,3 +1,4 @@
+# Task: print 1-100 and for numbers divisible by 3, print Bit, for 5, print Maker, for 3 AND 5, print BitMaker
 # Used while control structure for the count to 100.
 # Used if/elsif statement and modulus to find if divisible by 3 and 5
 # It worked!
