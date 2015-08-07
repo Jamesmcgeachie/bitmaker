@@ -1,5 +1,4 @@
 # Temperature conversion program - Fahrenheit to Celsius.
-# Currently is just returning 0 regardless of what number user gives, unsure why this is happening
 # First, need a prompt
 
 print "Please give a temperature in Fahrenheit (number only please) " 
