@@ -4,8 +4,8 @@
 grocery_list = ["carrots", "toilet paper", "apples", "salmon"]
 
 # Setting a method to print the list with * before each object in it
-def print_list(grocery_list)
-    grocery_list.each do |grocery|
+def print_list(groceries)
+    groceries.each do |grocery|
         puts "* " + grocery
     end
 end
